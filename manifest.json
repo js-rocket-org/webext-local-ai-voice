@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Local AI voice Extension",
+  "version": "1.0",
+  "description": "Uses local AI to perform speech to text",
+  "action": {},
+  "background": {},
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chatgpt.com/*",
+        "https://copilot.microsoft.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "storage"
+  ]
+}
