@@ -1,4 +1,4 @@
-# Aldi Shopping Cart Browser Extension
+# Local AI voice input Browser Extension
 
 This is a basic Chrome extension that uses a local voice service to interact with various AI websites
 
