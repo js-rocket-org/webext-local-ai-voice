@@ -3,7 +3,7 @@
 This is a basic Chrome extension that uses a local voice service to interact with various AI websites
 
 ## Features
-- Supports ChatGPT
+- Supports ChatGPT and Copilot
 
 
 ## Installation
